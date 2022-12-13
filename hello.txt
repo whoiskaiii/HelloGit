@@ -1,2 +1,2 @@
 hello Git!
-modified the master branch
+modified the hot-fix branch
